@@ -15,5 +15,4 @@ Currently focused on:
 Open to freelance work, collaborations, and full-stack web development opportunities.
 
 Portfolio: https://skerdi-portfolio.vercel.app  
-
 Email: skerdidev.services@gmail.com
