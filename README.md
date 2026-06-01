@@ -1,16 +1,18 @@
-## Hi there 👋
+Hi, I'm Skerdi 👋
 
-<!--
-**skerdiD/skerdiD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack web developer building SaaS-style apps, dashboards, client portals, internal tools, and AI-powered workflows.
 
-Here are some ideas to get you started:
+I focus on turning product ideas into usable web applications with clean UI, authentication, databases, APIs, deployment, and maintainable backend systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently focused on:
+
+* SaaS dashboards
+* Client portals
+* Internal tools
+* AI workflow apps
+* Full-stack product features
+
+Open to freelance work, collaborations, and full-stack web development opportunities.
+
+Portfolio: https://skerdi-portfolio.vercel.app
+Email: [skerdidev.services@gmail.com](mailto:skerdidev.services@gmail.com)
