@@ -2,12 +2,11 @@
 
 ## About Me
 
-I'm a **Full-Stack Software Engineer** focused on building production-style web applications with clean UI, authentication, databases, APIs, dashboards, and maintainable backend systems.
+I'm a **Full-Stack Software Engineer** focused on building production-style web applications with clean UI, authentication, databases, APIs, dashboards, AI integrations, and maintainable backend systems.
 
 I mostly work with **React, Next.js, TypeScript, Node.js, PostgreSQL, Supabase, Tailwind CSS, and shadcn/ui**.
 
-My focus is building practical full-stack products that solve real business problems — from user-facing applications to backend systems, dashboards, and workflow tools.
-
+My focus is building practical full-stack products that solve real business problems, with AI integrations added where they create real value.
 ---
 
 ## What I build
@@ -23,7 +22,7 @@ My focus is building practical full-stack products that solve real business prob
 
 ## 🛠️ Technologies & Tools
 
-**Frontend:** `React` `Next.js` `TypeScript` `JavaScript` `Tailwind CSS` `shadcn/ui` `HTML5` `CSS3`
+**Frontend:** `React` `Next.js` `TypeScript` `JavaScript` `Tailwind CSS` `shadcn/ui` 
 
 **Backend:** `Node.js` `Express.js` `Django` `REST APIs` `Authentication` `Role-Based Access Control`
 
@@ -31,6 +30,6 @@ My focus is building practical full-stack products that solve real business prob
 
 **Product & UI:** `TanStack Table` `Recharts` `Zod` `React Hook Form` `Responsive Design` `Dashboard UI`
 
-**AI & Automation:** `Gemini API` `OpenAI API` `AI-assisted workflows` `Prompt engineering` `Automation workflows`
+**AI & Automation:** `Gemini API` `OpenAI API` `LLM Integrations` `AI-assisted workflows` `Automation workflows`
 
-**Tools & Testing:** `Git` `GitHub` `Vercel` `Render` `Clerk` `Playwright` `Vitest` 
+**Tools & Testing:** `Git` `GitHub` `Vercel` `Render` `Clerk` `Supabase` `Playwright` `Vitest` 
