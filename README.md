@@ -1,21 +1,27 @@
-Hi, I'm Skerdi 👋
+# Hey there 👋
 
-Full-stack web developer building SaaS-style apps, dashboards, analytics/reporting systems, client portals, internal tools, API integrations, and AI-powered workflows.
+I'm Skerdi, a **Full-Stack Software Engineer** focused on building production-style web applications with clean UI, authentication, databases, APIs, dashboards, and maintainable backend systems.
 
-I focus on turning product ideas into usable web applications with clean UI, authentication, databases, APIs, dashboards, deployment, and maintainable backend systems.
+I mostly work with **React, Next.js, TypeScript, Node.js, PostgreSQL, Supabase, Tailwind CSS, and shadcn/ui**.
 
-Currently focused on:
+My focus is building practical full-stack products that solve real business problems — from user-facing applications to backend systems, dashboards, and workflow tools.
 
-* SaaS dashboards & analytics reports
-* Client portals
-* Internal tools & admin panels
-* API integrations
-* AI workflows & automation
-* Full-stack product features
+---
 
-Open to freelance work, collaborations, and full-stack web development opportunities.
+## What I build
 
-Portfolio: https://skerdi-portfolio.vercel.app<br />
-Email: [skerdidev.services@gmail.com](mailto:skerdidev.services@gmail.com)
+- SaaS-style dashboards and analytics platforms
+- Admin panels and internal tools
+- Authentication and role-based systems
+- Database-driven product features
+- API integrations and automation workflows
+- AI-assisted features for real product use cases
 
+---
 
+## Tools & Tech
+
+**Frontend:** React, Next.js, TypeScript, Tailwind CSS, shadcn/ui  
+**Backend:** Node.js, Express, REST APIs, Django  
+**Database:** PostgreSQL, Supabase, Drizzle ORM, Prisma, MySQL  
+**Tools:** Git, GitHub, Vercel, Render, Clerk, Playwright, Vitest  
