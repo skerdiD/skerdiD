@@ -7,6 +7,7 @@ I'm a **Full-Stack Software Engineer** focused on building production-style web 
 I mostly work with **React, Next.js, TypeScript, Node.js, PostgreSQL, Supabase, Tailwind CSS, and shadcn/ui**.
 
 My focus is building practical full-stack products that solve real business problems, with AI integrations added where they create real value.
+
 ---
 
 ## What I build
