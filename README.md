@@ -1,6 +1,8 @@
-# Hey there 👋
+# Hi, I'm Skerdi 👋
 
-I'm Skerdi, a **Full-Stack Software Engineer** focused on building production-style web applications with clean UI, authentication, databases, APIs, dashboards, and maintainable backend systems.
+## About Me
+
+I'm a **Full-Stack Software Engineer** focused on building production-style web applications with clean UI, authentication, databases, APIs, dashboards, and maintainable backend systems.
 
 I mostly work with **React, Next.js, TypeScript, Node.js, PostgreSQL, Supabase, Tailwind CSS, and shadcn/ui**.
 
@@ -24,4 +26,4 @@ My focus is building practical full-stack products that solve real business prob
 **Frontend:** React, Next.js, TypeScript, Tailwind CSS, shadcn/ui  
 **Backend:** Node.js, Express, REST APIs, Django  
 **Database:** PostgreSQL, Supabase, Drizzle ORM, Prisma, MySQL  
-**Tools:** Git, GitHub, Vercel, Render, Clerk, Playwright, Vitest  
+**Tools:** Git, GitHub, Vercel, Render, Clerk, Playwright, Vitest
