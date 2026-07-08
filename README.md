@@ -4,7 +4,7 @@
 
 I'm a **Full-Stack Software Engineer** focused on building production-style web applications with clean UI, authentication, databases, APIs, dashboards, AI integrations, and maintainable backend systems.
 
-I mostly work with **React, Next.js, TypeScript, Node.js, PostgreSQL, Supabase, Tailwind CSS, and shadcn/ui**.
+I mostly work with **React, Next.js, TypeScript, Node.js, PostgreSQL, Supabase, Tailwind CSS, and shadcn/ui**, while adapting the stack based on the project, product requirements, and team workflow.
 
 My focus is building practical full-stack products that solve real business problems, with AI integrations added where they create real value.
 
@@ -29,8 +29,8 @@ My focus is building practical full-stack products that solve real business prob
 
 **Database & ORM:** `PostgreSQL` `Supabase` `MySQL` `Drizzle ORM` `Prisma`
 
-**Product & UI:** `TanStack Table` `Recharts` `Zod` `React Hook Form` `Responsive Design` `Dashboard UI`
+**Product & UI:** `TanStack Table` `Recharts` `Zod` `React Hook Form` `Dashboard UI`
 
-**AI & Automation:** `Gemini API` `OpenAI API` `LLM Integrations` `AI-assisted workflows` `Automation workflows`
+**AI & Automation:** `Gemini API` `OpenAI API` `LLM Integrations` `AI-assisted workflows` 
 
 **Tools & Testing:** `Git` `GitHub` `Vercel` `Render` `Clerk` `Supabase` `Playwright` `Vitest` 
