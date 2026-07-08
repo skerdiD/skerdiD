@@ -21,9 +21,16 @@ My focus is building practical full-stack products that solve real business prob
 
 ---
 
-## Tools & Tech
+## 🛠️ Technologies & Tools
 
-**Frontend:** React, Next.js, TypeScript, Tailwind CSS, shadcn/ui  
-**Backend:** Node.js, Express, REST APIs, Django  
-**Database:** PostgreSQL, Supabase, Drizzle ORM, Prisma, MySQL  
-**Tools:** Git, GitHub, Vercel, Render, Clerk, Playwright, Vitest
+**Frontend:** `React` `Next.js` `TypeScript` `JavaScript` `Tailwind CSS` `shadcn/ui` `HTML5` `CSS3`
+
+**Backend:** `Node.js` `Express.js` `Django` `REST APIs` `Authentication` `Role-Based Access Control`
+
+**Database & ORM:** `PostgreSQL` `Supabase` `MySQL` `Drizzle ORM` `Prisma`
+
+**Product & UI:** `TanStack Table` `Recharts` `Zod` `React Hook Form` `Responsive Design` `Dashboard UI`
+
+**AI & Automation:** `Gemini API` `OpenAI API` `AI-assisted workflows` `Prompt engineering` `Automation workflows`
+
+**Tools & Testing:** `Git` `GitHub` `Vercel` `Render` `Clerk` `Playwright` `Vitest` 
