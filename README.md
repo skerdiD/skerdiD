@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a **Full-Stack Software Engineer** focused on building production-style web applications with clean UI, authentication, databases, APIs, dashboards, AI integrations, and maintainable backend systems.
+I'm a **Full-Stack Engineer** focused on building production-style web applications with clean UI, authentication, databases, APIs, dashboards, AI integrations, and maintainable backend systems.
 
 I mostly work with **React, Next.js, TypeScript, Node.js, PostgreSQL, Supabase, Tailwind CSS, and shadcn/ui**, while adapting the stack based on the project, product requirements, and team workflow.
 
