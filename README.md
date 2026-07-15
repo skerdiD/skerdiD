@@ -33,4 +33,4 @@ My focus is building practical full-stack products that solve real business prob
 
 **AI & Automation:** `Gemini API` `OpenAI API` `LLM Integrations` `AI-assisted workflows` 
 
-**Tools & Testing:** `Git` `GitHub` `Vercel` `Render` `Clerk` `Supabase` `Playwright` `Vitest` 
+**Tools & Testing:** `Git` `GitHub` `Vercel` `Render` `Clerk` `CI/CD` `Playwright` `Vitest` 
