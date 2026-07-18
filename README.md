@@ -25,11 +25,11 @@ My focus is building practical full-stack products that solve real business prob
 
 **Frontend:** `React` `Next.js` `TypeScript` `JavaScript` `Tailwind CSS` `shadcn/ui` 
 
-**Backend:** `Node.js` `Express.js` `Django` `REST APIs` `Authentication` `Role-Based Access Control`
+**Backend:** `Node.js` `Express.js` `Django` `REST APIs` `Role-Based Access Control`
 
 **Database & ORM:** `PostgreSQL` `Supabase` `MySQL` `MongoDB` `Drizzle ORM` `Prisma`
 
-**Product & UI:** `TanStack Table` `Recharts` `Zod` `React Hook Form` `Dashboard UI`
+**Product & UI:** `TanStack Table` `Recharts` `Zod` `React Hook Form` 
 
 **AI & Automation:** `Gemini API` `OpenAI API` `LLM Integrations` `AI-assisted workflows` 
 
