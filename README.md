@@ -23,13 +23,13 @@ My focus is building practical full-stack products that solve real business prob
 
 ## 🛠️ Technologies & Tools
 
-**Frontend:** `React` `Next.js` `TypeScript` `JavaScript` `Tailwind CSS` `shadcn/ui` 
+**Frontend:** `React` `Next.js` `TypeScript` `JavaScript` `Tailwind CSS` 
 
 **Backend:** `Node.js` `Express.js` `REST APIs` `NestJS`
 
 **Database & ORM:** `PostgreSQL` `Supabase` `MySQL` `MongoDB` `Drizzle ORM` `Prisma`
 
-**Product & UI:** `TanStack Table` `Recharts` `Zod` `React Hook Form` 
+**Product & UI:** `shadcn/ui` `TanStack Table` `Recharts` `Zod` `React Hook Form` 
 
 **AI & Automation:** `Gemini API` `OpenAI API` `LLM Integrations` `AI-assisted workflows` 
 
