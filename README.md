@@ -27,7 +27,7 @@ My focus is building practical full-stack products that solve real business prob
 
 **Backend:** `Node.js` `Express.js` `REST APIs` `NestJS`
 
-**Database & ORM:** `PostgreSQL` `Supabase` `MySQL` `MongoDB` `Drizzle ORM` `Prisma`
+**Database & ORM:** `PostgreSQL` `Supabase` `MySQL` `MongoDB` `Drizzle ORM` `Prisma` `Redis`
 
 **Product & UI:** `shadcn/ui` `TanStack Table` `Recharts` `Zod` `React Hook Form` 
 
