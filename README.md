@@ -25,7 +25,7 @@ My focus is building practical full-stack products that solve real business prob
 
 **Frontend:** `React` `Next.js` `TypeScript` `JavaScript` `Tailwind CSS` 
 
-**Backend:** `Node.js` `Express.js` `REST APIs` `NestJS`
+**Backend:** `Node.js` `Express.js` `REST APIs` 
 
 **Database & ORM:** `PostgreSQL` `Supabase` `MySQL` `MongoDB` `Drizzle ORM` `Prisma` `Redis`
 
