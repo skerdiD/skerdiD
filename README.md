@@ -2,9 +2,9 @@
 
 ## About Me
 
-I'm a **Full-Stack Engineer** focused on building production-style web applications with modern frontend architecture, APIs, authentication, relational databases, background processing, and AI integrations.
+I'm a Full-Stack Engineer focused on building production-style web applications with clean frontend architecture, REST APIs, authentication, relational databases, background processing, and AI integrations.
 
-I enjoy building practical products and backend systems that solve real business problems.
+I particularly enjoy backend-focused engineering—designing APIs, data models, queues, and maintainable application architecture—and turning real business problems into practical software products.
 
 ---
 
@@ -17,7 +17,7 @@ I enjoy building practical products and backend systems that solve real business
 ## 🛠️ Additional Technologies
 
 **Data & Services:**  
-`Redis` `MongoDB` `Supabase` `Drizzle ORM` `Clerk`
+`Redis` `BullMQ` `MongoDB` `Supabase` `Drizzle ORM` `Clerk`
 
 **Frontend:**  
 `Tailwind CSS` `shadcn/ui` `React Hook Form` `Zod` `TanStack Table` `Recharts`
