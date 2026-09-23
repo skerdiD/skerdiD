@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm a Full-Stack Engineer focused on building production-style web applications with clean frontend architecture, REST APIs, authentication, relational databases, background processing, and AI integrations.
+I'm a **Full-Stack Engineer** focused on building production-style web applications with clean frontend architecture, REST APIs, authentication, relational databases, background processing, and AI integrations.
 
 I particularly enjoy backend-focused engineering—designing APIs, data models, queues, and maintainable application architecture—and turning real business problems into practical software products.
 
