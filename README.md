@@ -1,36 +1,32 @@
-# Hi, I'm Skerdi 👋
+# Hi, I'm Skerdi👋
 
 ## About Me
 
-I'm a **Full-Stack Engineer** focused on building production-style web applications with clean UI, authentication, databases, APIs, dashboards, AI integrations, and maintainable backend systems.
+I'm a **Full-Stack Engineer** focused on building production-style web applications with modern frontend architecture, APIs, authentication, relational databases, background processing, and AI integrations.
 
-I mostly work with **React, Next.js, TypeScript, Node.js, PostgreSQL, Supabase, Tailwind CSS, and shadcn/ui**, while adapting the stack based on the project, product requirements, and team workflow.
-
-My focus is building practical full-stack products that solve real business problems, with AI integrations added where they create real value.
+I enjoy building practical products and backend systems that solve real business problems.
 
 ---
 
-## What I build
+## ⚡ Core Stack
 
-- SaaS-style dashboards and analytics platforms
-- Admin panels and internal tools
-- Authentication and role-based systems
-- Database-driven product features
-- API integrations and automation workflows
-- AI-assisted features for real product use cases
+`TypeScript` `JavaScript` `React` `Next.js`
+`Node.js` `Express.js` `NestJS`
+`PostgreSQL` `Prisma`
 
----
+## 🛠️ Additional Technologies
 
-## 🛠️ Technologies & Tools
+**Data & Services:**  
+`Redis` `MongoDB` `Supabase` `Drizzle ORM` `Clerk`
 
-**Frontend:** `React` `Next.js` `TypeScript` `JavaScript` `Tailwind CSS` 
+**Frontend:**  
+`Tailwind CSS` `shadcn/ui` `React Hook Form` `Zod` `TanStack Table` `Recharts`
 
-**Backend:** `Node.js` `Express.js` `REST APIs` 
+**AI & Infrastructure:**  
+`OpenAI API` `Gemini API` `Docker` `GitHub Actions` `Vercel` `Render`
 
-**Database & ORM:** `PostgreSQL` `Supabase` `MySQL` `MongoDB` `Drizzle ORM` `Prisma` `Redis`
+**Testing & Monitoring:**  
+`Vitest` `Playwright` `Sentry`
 
-**Product & UI:** `shadcn/ui` `TanStack Table` `Recharts` `Zod` `React Hook Form` 
-
-**AI & Automation:** `Gemini API` `OpenAI API` `LLM Integrations` `AI-assisted workflows` 
-
-**Tools & Testing:** `Git` `GitHub` `Vercel` `Render` `Clerk` `CI/CD` `Playwright` `Vitest` `Sentry` `Docker`
+**Developer Tools:**  
+`Git` `GitHub`
