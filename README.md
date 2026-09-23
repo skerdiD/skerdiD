@@ -6,6 +6,8 @@ I'm a **Full-Stack Engineer** focused on building production-style web applicati
 
 I particularly enjoy backend-focused engineering—designing APIs, data models, queues, and maintainable application architecture—and turning real business problems into practical software products.
 
+I'm also comfortable adapting to different technologies, frameworks, and tools when a project or team requires it.
+
 ---
 
 ## ⚡ Core Stack
