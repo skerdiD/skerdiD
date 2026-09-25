@@ -2,11 +2,11 @@
 
 ## About Me
 
-I'm a **Full-Stack Developer** focused on building production-style web applications with clean frontend architecture, REST APIs, authentication, relational databases, background processing, and AI integrations.
+I'm a **Full-Stack Developer** building complete web applications, from modern React/Next.js interfaces to backend systems with Express.js and NestJS, databases, background processing, and AI-powered features.
 
-I particularly enjoy backend-focused engineering—designing APIs, data models, queues, and maintainable application architecture—and turning real business problems into practical software products.
+I enjoy working across the full stack, with a particular interest in backend systems, application architecture, APIs, data modeling, and system design.
 
-I'm also comfortable adapting to different technologies, frameworks, and tools when a project or team requires it.
+I'm also comfortable adapting to different technologies, frameworks, and tools depending on the needs of the project or team.
 
 ---
 
