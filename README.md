@@ -1,4 +1,4 @@
-# Hi, I'm Skerdi👋
+# Hi, I'm Skerdi 👋
 
 ## About Me
 
@@ -10,25 +10,22 @@ I'm also comfortable adapting to different technologies, frameworks, and tools w
 
 ---
 
-## ⚡ Core Stack
+## ⚡ Tech Stack
 
-`TypeScript` `JavaScript` `React` `Next.js`
-`Node.js` `Express.js` `NestJS`
-`PostgreSQL` `Prisma`
+### Frontend
+`TypeScript` `JavaScript` `React` `Next.js` `Tailwind CSS` `shadcn/ui` 
 
-## 🛠️ Additional Technologies
+### Backend
+`Node.js` `Express.js` `NestJS` `REST APIs`
 
-**Data & Services:**  
-`Redis` `BullMQ` `MongoDB` `Supabase` `Drizzle ORM` `Clerk`
+### Data & Services
+`PostgreSQL` `Prisma` `Supabase` `MongoDB` `Drizzle ORM` `Redis` `BullMQ` `Zod` 
 
-**Frontend:**  
-`Tailwind CSS` `shadcn/ui` `React Hook Form` `Zod` `TanStack Table` `Recharts`
+### AI & Infrastructure
+`LLM Integrations` `Vercel AI SDK` `Docker` `GitHub Actions` `Vercel` `Render`
 
-**AI & Infrastructure:**  
-`OpenAI API` `Gemini API` `Docker` `GitHub Actions` `Vercel` `Render`
+### Testing & Monitoring
+`Vitest` `Playwright` `Sentry` 
 
-**Testing & Monitoring:**  
-`Vitest` `Playwright` `Sentry`
-
-**Developer Tools:**  
+### Developer Tools
 `Git` `GitHub`
