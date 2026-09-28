@@ -29,3 +29,11 @@ I'm also comfortable adapting to different technologies, frameworks, and tools d
 
 ### Developer Tools
 `Git` `GitHub`
+
+## 📫 Contact
+
+I'm open to Full-Stack Developer and backend-focused software engineering opportunities.
+
+- 💼 **LinkedIn:** [linkedin.com/in/skerdi-cacaj](https://www.linkedin.com/in/skerdi-cacaj/)
+- 🌐 **Portfolio:** [skerdi-cacaj.vercel.app](https://skerdi-cacaj.vercel.app/)
+- 📧 **Email:** [skerdi.cacaj.dev@gmail.com](mailto:skerdi.cacaj.dev@gmail.com)
