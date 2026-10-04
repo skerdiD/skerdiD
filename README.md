@@ -24,11 +24,8 @@ I'm also comfortable adapting to different technologies, frameworks, and tools d
 ### AI & Infrastructure
 `LLM Integrations` `Vercel AI SDK` `Docker` `GitHub Actions` `Vercel` `Render`
 
-### Testing & Monitoring
-`Vitest` `Playwright` `Sentry` 
-
-### Developer Tools
-`Git` `GitHub`
+### Testing & Tools
+`Vitest` `Playwright` `Sentry` `Git`
 
 ## 📫 Contact
 
